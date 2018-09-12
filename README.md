@@ -2,7 +2,7 @@
 Automatiseringen kan användas till flera olika saker, t.ex:
 * Komprimering av filer.
 
-* Konkatenring av filer.
+* Konkatenering av filer.
 
 * Automatisering av en specifik uppgift som att t.ex slå ihop två js filer.
 
