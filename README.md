@@ -23,7 +23,6 @@ Jag har åtta tasks
 * sass - Kopierar mina sass-filer från /sass i /src till /css i /src.
 * css - Kopierar mina css-filer från /css i /src till /css i /dist.
 * scripts - Kopierar mina js-filer från /js i /src till /js i /dist.
-* run - 
+* run - Startar och kör alla tasks.
 * watch - Körs i bakgrunden och lyssnar till förändringar i de filer jag arbetar med.
-* default - 
 * * *
