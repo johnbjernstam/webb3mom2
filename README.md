@@ -19,11 +19,11 @@ Automatiseringen kan användas till flera olika saker, t.ex:
 Hjärtat i mitt system är foldern "src" Här ligger de filer jag arbetar med som sedan skickas till katalogen "dist" för publicering.
 Jag har åtta tasks
 * imagemin - 
-* copyphpv
-* sass - 
-* css - 
-* scripts - 
+* copyphp - Kopierar mina php-filer från /src till /dist.
+* sass - Kopierar mina sass-filer från /sass i /src till /css i /src.
+* css - Kopierar mina css-filer från /css i /src till /css i /dist
+* scripts - Kopierar mina js-filer från /js i /src till /js i /dist
 * run - 
-* watch - 
+* watch - Körs i bakgrunden och lyssnar till förändringar i de filer jag arbetar med.
 * default - 
 * * *
