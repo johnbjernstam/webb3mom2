@@ -15,7 +15,7 @@ Automatiseringen kan användas till flera olika saker, t.ex:
 
 * * *
 
-# beskriv systemet du skapat, hur man startar upp det och de tasks som ingår
+# Mitt system
 Hjärtat i mitt system är foldern "src" Här ligger de filer jag arbetar med som sedan skickas till katalogen "dist" för publicering.
 
 Jag har sju tasks:
