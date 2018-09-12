@@ -4,12 +4,16 @@
 * 3
 * * *
 
-# anger om vilka paket och verktyg du använt, och varför du valt just dessa.
-asd
+# Verktyg jag använt och anledningen till det.
+* 1
+* 2
+* 3
 * * *
 
 # beskriv systemet du skapat, hur man startar upp det och de tasks som ingår.
-asd
+* 1
+* 2
+* 3
 * * *
 
 # Ta även med om du lagt till något extra.
