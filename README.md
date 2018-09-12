@@ -1,5 +1,7 @@
 # vad automatiserings-processens syfte är.
-asd
+* 1
+* 2
+* 3
 * * *
 
 # anger om vilka paket och verktyg du använt, och varför du valt just dessa.
