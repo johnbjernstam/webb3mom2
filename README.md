@@ -5,8 +5,10 @@
 * * *
 
 # Verktyg jag använt och anledningen till det.
-* Visual Studio Code - Det är det program jag använt mest och känner mig mest bekväm med, fungerar bra tillsammans med git med vilket är ett stort +!
+* Visual Studio Code - Det är det program jag använt mest och känner mig mest bekväm med, fungerar bra tillsammans med git med vilket är ett stort plus!
+
 * 2
+
 * 3
 * * *
 
