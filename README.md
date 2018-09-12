@@ -17,7 +17,8 @@ Automatiseringen kan användas till flera olika saker, t.ex:
 
 # beskriv systemet du skapat, hur man startar upp det och de tasks som ingår
 Hjärtat i mitt system är foldern "src" Här ligger de filer jag arbetar med som sedan skickas till katalogen "dist" för publicering.
-Jag har åtta tasks
+
+Jag har sju tasks:
 * imagemin - Kopierar mina bilder från /images i /src till /images i /dist.
 * copyphp - Kopierar mina php-filer från /src till /dist.
 * sass - Kopierar mina sass-filer från /sass i /src till /css i /src.
