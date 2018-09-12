@@ -7,7 +7,7 @@
 # Verktyg jag använt och anledningen till det.
 * Visual Studio Code - Det är det program jag använt mest och känner mig mest bekväm med, fungerar bra tillsammans med git med vilket är ett stort plus!
 
-* 2
+* Git Bash - Jag har använt Git Bash tidigare men det var längesedan, kändes helt ok att börja komma igång med det igen.
 
 * 3
 * * *
