@@ -9,7 +9,6 @@
 
 * Git Bash - Jag har använt Git Bash tidigare men det var längesedan, kändes helt ok att börja komma igång med det igen.
 
-* 3
 * * *
 
 # beskriv systemet du skapat, hur man startar upp det och de tasks som ingår.
